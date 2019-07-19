@@ -1,0 +1,2994 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <display-name lang="pt">DISCOVERY TURBO FHD (DUAL AUDIO)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD">
+    <display-name lang="pt">DISCOVERY TURBO HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD*">
+    <display-name lang="pt">DISCOVERY TURBO HD*</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO SD">
+    <display-name lang="pt">DISCOVERY TURBO SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO SD*">
+    <display-name lang="pt">DISCOVERY TURBO SD*</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190719000000 +0100" stop="20190719235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190720000000 +0100" stop="20190720235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190721000000 +0100" stop="20190721235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190719004800 -0300" stop="20190719013800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719013800 -0300" stop="20190719022800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719022800 -0300" stop="20190719031800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719031800 -0300" stop="20190719040800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719040800 -0300" stop="20190719050100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719050100 -0300" stop="20190719052600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719052600 -0300" stop="20190719055100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719055100 -0300" stop="20190719064100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Os Reis da Sucata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719064100 -0300" stop="20190719073100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719073100 -0300" stop="20190719081900 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719081900 -0300" stop="20190719090700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719090700 -0300" stop="20190719095500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719095500 -0300" stop="20190719104500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719104500 -0300" stop="20190719111000 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719111000 -0300" stop="20190719113500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719113500 -0300" stop="20190719122300 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719122300 -0300" stop="20190719131100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719131100 -0300" stop="20190719140100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719140100 -0300" stop="20190719144900 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719144900 -0300" stop="20190719153900 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Lama, Suor E Máquinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719153900 -0300" stop="20190719162400 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Top Gear USA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719162400 -0300" stop="20190719171400 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719171400 -0300" stop="20190719180500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719180500 -0300" stop="20190719183000 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719183000 -0300" stop="20190719185500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Turbinados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719185500 -0300" stop="20190719194600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719194600 -0300" stop="20190719203000 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719203000 -0300" stop="20190719212000 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719212000 -0300" stop="20190719221100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719221100 -0300" stop="20190719230200 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719230200 -0300" stop="20190719235600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719235600 -0300" stop="20190720004800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720004800 -0300" stop="20190720013800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720013800 -0300" stop="20190720022800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720022800 -0300" stop="20190720031800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720031800 -0300" stop="20190720040800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720040800 -0300" stop="20190720050100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720050100 -0300" stop="20190720052600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720052600 -0300" stop="20190720055100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720055100 -0300" stop="20190720064100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720064100 -0300" stop="20190720073100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Por Dentro dos Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720073100 -0300" stop="20190720082100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Mundial de Endurance</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720082100 -0300" stop="20190720084500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720084500 -0300" stop="20190720090900 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720090900 -0300" stop="20190720095700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720095700 -0300" stop="20190720104500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720104500 -0300" stop="20190720113300 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720113300 -0300" stop="20190720122300 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720122300 -0300" stop="20190720131300 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720131300 -0300" stop="20190720140100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720140100 -0300" stop="20190720144900 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720144900 -0300" stop="20190720153900 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720153900 -0300" stop="20190720162700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720162700 -0300" stop="20190720171700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720171700 -0300" stop="20190720180500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Duelo de Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720180500 -0300" stop="20190720185600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720185600 -0300" stop="20190720194600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720194600 -0300" stop="20190720203300 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720203300 -0300" stop="20190720212300 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720212300 -0300" stop="20190720221700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720221700 -0300" stop="20190720230600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720230600 -0300" stop="20190720235600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720235600 -0300" stop="20190721004800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721004800 -0300" stop="20190721013800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721013800 -0300" stop="20190721022800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721022800 -0300" stop="20190721031800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721031800 -0300" stop="20190721040800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721040800 -0300" stop="20190721050100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721050100 -0300" stop="20190721052600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721052600 -0300" stop="20190721055100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721055100 -0300" stop="20190721064100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721064100 -0300" stop="20190721073100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Por Dentro dos SUVs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721073100 -0300" stop="20190721075600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721075600 -0300" stop="20190721082100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721082100 -0300" stop="20190721084500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721084500 -0300" stop="20190721090900 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090900 -0300" stop="20190721095700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721095700 -0300" stop="20190721104700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721104700 -0300" stop="20190721113700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721113700 -0300" stop="20190721122500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721122500 -0300" stop="20190721131300 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721131300 -0300" stop="20190721133800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721133800 -0300" stop="20190721140300 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721140300 -0300" stop="20190721145100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Twin Turbos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721145100 -0300" stop="20190721153900 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153900 -0300" stop="20190721162700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721162700 -0300" stop="20190721171700 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">American Chopper: Sênior Contra Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721171700 -0300" stop="20190721180500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">ToyMakerz: Máquinas de Corrida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180500 -0300" stop="20190721185500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721185500 -0300" stop="20190721194600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721194600 -0300" stop="20190721203000 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Hot Rods Artesanais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721212000 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721212000 -0300" stop="20190721221100 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721221100 -0300" stop="20190721230500 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Velocidade com Guy Martin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721230500 -0300" stop="20190721233000 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190721235600 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">Autos, Motos E Paixão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721235600 -0300" stop="20190722004800 -0300" channel="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719004800 -0300" stop="20190719013800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719013800 -0300" stop="20190719022800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719022800 -0300" stop="20190719031800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719031800 -0300" stop="20190719040800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719040800 -0300" stop="20190719050100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719050100 -0300" stop="20190719052600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719052600 -0300" stop="20190719055100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719055100 -0300" stop="20190719064100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719064100 -0300" stop="20190719073100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719073100 -0300" stop="20190719081900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719081900 -0300" stop="20190719090700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719090700 -0300" stop="20190719095500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719095500 -0300" stop="20190719104500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719104500 -0300" stop="20190719111000 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719111000 -0300" stop="20190719113500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719113500 -0300" stop="20190719122300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719122300 -0300" stop="20190719131100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719131100 -0300" stop="20190719140100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719140100 -0300" stop="20190719144900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719144900 -0300" stop="20190719153900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Lama, Suor E Máquinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719153900 -0300" stop="20190719162400 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear USA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719162400 -0300" stop="20190719171400 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719171400 -0300" stop="20190719180500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719180500 -0300" stop="20190719183000 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719183000 -0300" stop="20190719185500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Turbinados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719185500 -0300" stop="20190719194600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719194600 -0300" stop="20190719203000 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719203000 -0300" stop="20190719212000 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719212000 -0300" stop="20190719221100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719221100 -0300" stop="20190719230200 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719230200 -0300" stop="20190719235600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719235600 -0300" stop="20190720004800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720004800 -0300" stop="20190720013800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720013800 -0300" stop="20190720022800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720022800 -0300" stop="20190720031800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720031800 -0300" stop="20190720040800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720040800 -0300" stop="20190720050100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720050100 -0300" stop="20190720052600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720052600 -0300" stop="20190720055100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720055100 -0300" stop="20190720064100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720064100 -0300" stop="20190720073100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Por Dentro dos Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720073100 -0300" stop="20190720082100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mundial de Endurance</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720082100 -0300" stop="20190720084500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720084500 -0300" stop="20190720090900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720090900 -0300" stop="20190720095700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720095700 -0300" stop="20190720104500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720104500 -0300" stop="20190720113300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720113300 -0300" stop="20190720122300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720122300 -0300" stop="20190720131300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720131300 -0300" stop="20190720140100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720140100 -0300" stop="20190720144900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720144900 -0300" stop="20190720153900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720153900 -0300" stop="20190720162700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720162700 -0300" stop="20190720171700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720171700 -0300" stop="20190720180500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Duelo de Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720180500 -0300" stop="20190720185600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720185600 -0300" stop="20190720194600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720194600 -0300" stop="20190720203300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720203300 -0300" stop="20190720212300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720212300 -0300" stop="20190720221700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720221700 -0300" stop="20190720230600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720230600 -0300" stop="20190720235600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720235600 -0300" stop="20190721004800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721004800 -0300" stop="20190721013800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721013800 -0300" stop="20190721022800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721022800 -0300" stop="20190721031800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721031800 -0300" stop="20190721040800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721040800 -0300" stop="20190721050100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721050100 -0300" stop="20190721052600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721052600 -0300" stop="20190721055100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721055100 -0300" stop="20190721064100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721064100 -0300" stop="20190721073100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Por Dentro dos SUVs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721073100 -0300" stop="20190721075600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721075600 -0300" stop="20190721082100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721082100 -0300" stop="20190721084500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721084500 -0300" stop="20190721090900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090900 -0300" stop="20190721095700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721095700 -0300" stop="20190721104700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721104700 -0300" stop="20190721113700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721113700 -0300" stop="20190721122500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721122500 -0300" stop="20190721131300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721131300 -0300" stop="20190721133800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721133800 -0300" stop="20190721140300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721140300 -0300" stop="20190721145100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Twin Turbos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721145100 -0300" stop="20190721153900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153900 -0300" stop="20190721162700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721162700 -0300" stop="20190721171700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">American Chopper: Sênior Contra Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721171700 -0300" stop="20190721180500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">ToyMakerz: Máquinas de Corrida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180500 -0300" stop="20190721185500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721185500 -0300" stop="20190721194600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721194600 -0300" stop="20190721203000 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Hot Rods Artesanais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721212000 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721212000 -0300" stop="20190721221100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721221100 -0300" stop="20190721230500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Velocidade com Guy Martin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721230500 -0300" stop="20190721233000 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190721235600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Autos, Motos E Paixão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721235600 -0300" stop="20190722004800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719004800 -0300" stop="20190719013800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719013800 -0300" stop="20190719022800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719022800 -0300" stop="20190719031800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719031800 -0300" stop="20190719040800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719040800 -0300" stop="20190719050100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719050100 -0300" stop="20190719052600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719052600 -0300" stop="20190719055100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719055100 -0300" stop="20190719064100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Os Reis da Sucata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719064100 -0300" stop="20190719073100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719073100 -0300" stop="20190719081900 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719081900 -0300" stop="20190719090700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719090700 -0300" stop="20190719095500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719095500 -0300" stop="20190719104500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719104500 -0300" stop="20190719111000 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719111000 -0300" stop="20190719113500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719113500 -0300" stop="20190719122300 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719122300 -0300" stop="20190719131100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719131100 -0300" stop="20190719140100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719140100 -0300" stop="20190719144900 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719144900 -0300" stop="20190719153900 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Lama, Suor E Máquinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719153900 -0300" stop="20190719162400 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Top Gear USA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719162400 -0300" stop="20190719171400 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719171400 -0300" stop="20190719180500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719180500 -0300" stop="20190719183000 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719183000 -0300" stop="20190719185500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Turbinados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719185500 -0300" stop="20190719194600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719194600 -0300" stop="20190719203000 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719203000 -0300" stop="20190719212000 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719212000 -0300" stop="20190719221100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719221100 -0300" stop="20190719230200 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719230200 -0300" stop="20190719235600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719235600 -0300" stop="20190720004800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720004800 -0300" stop="20190720013800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720013800 -0300" stop="20190720022800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720022800 -0300" stop="20190720031800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720031800 -0300" stop="20190720040800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720040800 -0300" stop="20190720050100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720050100 -0300" stop="20190720052600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720052600 -0300" stop="20190720055100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720055100 -0300" stop="20190720064100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720064100 -0300" stop="20190720073100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Por Dentro dos Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720073100 -0300" stop="20190720082100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Mundial de Endurance</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720082100 -0300" stop="20190720084500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720084500 -0300" stop="20190720090900 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720090900 -0300" stop="20190720095700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720095700 -0300" stop="20190720104500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720104500 -0300" stop="20190720113300 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720113300 -0300" stop="20190720122300 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720122300 -0300" stop="20190720131300 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720131300 -0300" stop="20190720140100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720140100 -0300" stop="20190720144900 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720144900 -0300" stop="20190720153900 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720153900 -0300" stop="20190720162700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720162700 -0300" stop="20190720171700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720171700 -0300" stop="20190720180500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Duelo de Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720180500 -0300" stop="20190720185600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720185600 -0300" stop="20190720194600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720194600 -0300" stop="20190720203300 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720203300 -0300" stop="20190720212300 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720212300 -0300" stop="20190720221700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720221700 -0300" stop="20190720230600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720230600 -0300" stop="20190720235600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720235600 -0300" stop="20190721004800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721004800 -0300" stop="20190721013800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721013800 -0300" stop="20190721022800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721022800 -0300" stop="20190721031800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721031800 -0300" stop="20190721040800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721040800 -0300" stop="20190721050100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721050100 -0300" stop="20190721052600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721052600 -0300" stop="20190721055100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721055100 -0300" stop="20190721064100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721064100 -0300" stop="20190721073100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Por Dentro dos SUVs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721073100 -0300" stop="20190721075600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721075600 -0300" stop="20190721082100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721082100 -0300" stop="20190721084500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721084500 -0300" stop="20190721090900 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090900 -0300" stop="20190721095700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721095700 -0300" stop="20190721104700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721104700 -0300" stop="20190721113700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721113700 -0300" stop="20190721122500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721122500 -0300" stop="20190721131300 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721131300 -0300" stop="20190721133800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721133800 -0300" stop="20190721140300 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721140300 -0300" stop="20190721145100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Twin Turbos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721145100 -0300" stop="20190721153900 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153900 -0300" stop="20190721162700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721162700 -0300" stop="20190721171700 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">American Chopper: Sênior Contra Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721171700 -0300" stop="20190721180500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">ToyMakerz: Máquinas de Corrida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180500 -0300" stop="20190721185500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721185500 -0300" stop="20190721194600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721194600 -0300" stop="20190721203000 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Hot Rods Artesanais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721212000 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721212000 -0300" stop="20190721221100 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721221100 -0300" stop="20190721230500 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Velocidade com Guy Martin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721230500 -0300" stop="20190721233000 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190721235600 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">Autos, Motos E Paixão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721235600 -0300" stop="20190722004800 -0300" channel="DISCOVERY TURBO HD*">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719004800 -0300" stop="20190719013800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719013800 -0300" stop="20190719022800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719022800 -0300" stop="20190719031800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719031800 -0300" stop="20190719040800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719040800 -0300" stop="20190719050100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719050100 -0300" stop="20190719052600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719052600 -0300" stop="20190719055100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719055100 -0300" stop="20190719064100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719064100 -0300" stop="20190719073100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719073100 -0300" stop="20190719081900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719081900 -0300" stop="20190719090700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719090700 -0300" stop="20190719095500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719095500 -0300" stop="20190719104500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719104500 -0300" stop="20190719111000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719111000 -0300" stop="20190719113500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719113500 -0300" stop="20190719122300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719122300 -0300" stop="20190719131100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719131100 -0300" stop="20190719140100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719140100 -0300" stop="20190719144900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719144900 -0300" stop="20190719153900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Lama, Suor E Máquinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719153900 -0300" stop="20190719162400 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear USA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719162400 -0300" stop="20190719171400 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719171400 -0300" stop="20190719180500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719180500 -0300" stop="20190719183000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719183000 -0300" stop="20190719185500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Turbinados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719185500 -0300" stop="20190719194600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719194600 -0300" stop="20190719203000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719203000 -0300" stop="20190719212000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719212000 -0300" stop="20190719221100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719221100 -0300" stop="20190719230200 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719230200 -0300" stop="20190719235600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719235600 -0300" stop="20190720004800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720004800 -0300" stop="20190720013800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720013800 -0300" stop="20190720022800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720022800 -0300" stop="20190720031800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720031800 -0300" stop="20190720040800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720040800 -0300" stop="20190720050100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720050100 -0300" stop="20190720052600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720052600 -0300" stop="20190720055100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720055100 -0300" stop="20190720064100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720064100 -0300" stop="20190720073100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Por Dentro dos Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720073100 -0300" stop="20190720082100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mundial de Endurance</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720082100 -0300" stop="20190720084500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720084500 -0300" stop="20190720090900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720090900 -0300" stop="20190720095700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720095700 -0300" stop="20190720104500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720104500 -0300" stop="20190720113300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720113300 -0300" stop="20190720122300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720122300 -0300" stop="20190720131300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720131300 -0300" stop="20190720140100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720140100 -0300" stop="20190720144900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720144900 -0300" stop="20190720153900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720153900 -0300" stop="20190720162700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720162700 -0300" stop="20190720171700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720171700 -0300" stop="20190720180500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Duelo de Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720180500 -0300" stop="20190720185600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720185600 -0300" stop="20190720194600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720194600 -0300" stop="20190720203300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720203300 -0300" stop="20190720212300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720212300 -0300" stop="20190720221700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720221700 -0300" stop="20190720230600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720230600 -0300" stop="20190720235600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720235600 -0300" stop="20190721004800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721004800 -0300" stop="20190721013800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721013800 -0300" stop="20190721022800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721022800 -0300" stop="20190721031800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721031800 -0300" stop="20190721040800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721040800 -0300" stop="20190721050100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721050100 -0300" stop="20190721052600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721052600 -0300" stop="20190721055100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721055100 -0300" stop="20190721064100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721064100 -0300" stop="20190721073100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Por Dentro dos SUVs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721073100 -0300" stop="20190721075600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721075600 -0300" stop="20190721082100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721082100 -0300" stop="20190721084500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721084500 -0300" stop="20190721090900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090900 -0300" stop="20190721095700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721095700 -0300" stop="20190721104700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721104700 -0300" stop="20190721113700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721113700 -0300" stop="20190721122500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721122500 -0300" stop="20190721131300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721131300 -0300" stop="20190721133800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721133800 -0300" stop="20190721140300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721140300 -0300" stop="20190721145100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Twin Turbos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721145100 -0300" stop="20190721153900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153900 -0300" stop="20190721162700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721162700 -0300" stop="20190721171700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">American Chopper: Sênior Contra Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721171700 -0300" stop="20190721180500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">ToyMakerz: Máquinas de Corrida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180500 -0300" stop="20190721185500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721185500 -0300" stop="20190721194600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721194600 -0300" stop="20190721203000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Hot Rods Artesanais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721212000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721212000 -0300" stop="20190721221100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721221100 -0300" stop="20190721230500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Velocidade com Guy Martin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721230500 -0300" stop="20190721233000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190721235600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Autos, Motos E Paixão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721235600 -0300" stop="20190722004800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719004800 -0300" stop="20190719013800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719013800 -0300" stop="20190719022800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719022800 -0300" stop="20190719031800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719031800 -0300" stop="20190719040800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719040800 -0300" stop="20190719050100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719050100 -0300" stop="20190719052600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719052600 -0300" stop="20190719055100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719055100 -0300" stop="20190719064100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Os Reis da Sucata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719064100 -0300" stop="20190719073100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719073100 -0300" stop="20190719081900 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719081900 -0300" stop="20190719090700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719090700 -0300" stop="20190719095500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719095500 -0300" stop="20190719104500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719104500 -0300" stop="20190719111000 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719111000 -0300" stop="20190719113500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719113500 -0300" stop="20190719122300 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719122300 -0300" stop="20190719131100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719131100 -0300" stop="20190719140100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719140100 -0300" stop="20190719144900 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719144900 -0300" stop="20190719153900 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Lama, Suor E Máquinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719153900 -0300" stop="20190719162400 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Top Gear USA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719162400 -0300" stop="20190719171400 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719171400 -0300" stop="20190719180500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719180500 -0300" stop="20190719183000 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719183000 -0300" stop="20190719185500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Turbinados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719185500 -0300" stop="20190719194600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719194600 -0300" stop="20190719203000 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719203000 -0300" stop="20190719212000 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719212000 -0300" stop="20190719221100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719221100 -0300" stop="20190719230200 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719230200 -0300" stop="20190719235600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719235600 -0300" stop="20190720004800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720004800 -0300" stop="20190720013800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720013800 -0300" stop="20190720022800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720022800 -0300" stop="20190720031800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720031800 -0300" stop="20190720040800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720040800 -0300" stop="20190720050100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720050100 -0300" stop="20190720052600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720052600 -0300" stop="20190720055100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720055100 -0300" stop="20190720064100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720064100 -0300" stop="20190720073100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Por Dentro dos Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720073100 -0300" stop="20190720082100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Mundial de Endurance</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720082100 -0300" stop="20190720084500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720084500 -0300" stop="20190720090900 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720090900 -0300" stop="20190720095700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720095700 -0300" stop="20190720104500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720104500 -0300" stop="20190720113300 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720113300 -0300" stop="20190720122300 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720122300 -0300" stop="20190720131300 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720131300 -0300" stop="20190720140100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720140100 -0300" stop="20190720144900 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Bad Chad: Fora do Padrão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720144900 -0300" stop="20190720153900 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720153900 -0300" stop="20190720162700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720162700 -0300" stop="20190720171700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720171700 -0300" stop="20190720180500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Duelo de Carros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720180500 -0300" stop="20190720185600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720185600 -0300" stop="20190720194600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Battlebots: Batalha de Robôs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720194600 -0300" stop="20190720203300 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720203300 -0300" stop="20190720212300 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720212300 -0300" stop="20190720221700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720221700 -0300" stop="20190720230600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720230600 -0300" stop="20190720235600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190720235600 -0300" stop="20190721004800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Quinta Marcha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721004800 -0300" stop="20190721013800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721013800 -0300" stop="20190721022800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721022800 -0300" stop="20190721031800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721031800 -0300" stop="20190721040800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721040800 -0300" stop="20190721050100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Top Gear: Coisas Malucas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721050100 -0300" stop="20190721052600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721052600 -0300" stop="20190721055100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721055100 -0300" stop="20190721064100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Por Dentro da West Coast Customs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721064100 -0300" stop="20190721073100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Por Dentro dos SUVs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721073100 -0300" stop="20190721075600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721075600 -0300" stop="20190721082100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Por Dentro do Campeonato Europeu de Rali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721082100 -0300" stop="20190721084500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721084500 -0300" stop="20190721090900 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090900 -0300" stop="20190721095700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721095700 -0300" stop="20190721104700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721104700 -0300" stop="20190721113700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721113700 -0300" stop="20190721122500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721122500 -0300" stop="20190721131300 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721131300 -0300" stop="20190721133800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721133800 -0300" stop="20190721140300 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina Do Fim Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721140300 -0300" stop="20190721145100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Twin Turbos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721145100 -0300" stop="20190721153900 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153900 -0300" stop="20190721162700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721162700 -0300" stop="20190721171700 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">American Chopper: Sênior Contra Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721171700 -0300" stop="20190721180500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">ToyMakerz: Máquinas de Corrida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180500 -0300" stop="20190721185500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721185500 -0300" stop="20190721194600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721194600 -0300" stop="20190721203000 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Hot Rods Artesanais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721212000 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721212000 -0300" stop="20190721221100 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721221100 -0300" stop="20190721230500 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Velocidade com Guy Martin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721230500 -0300" stop="20190721233000 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190721235600 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">Autos, Motos E Paixão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721235600 -0300" stop="20190722004800 -0300" channel="DISCOVERY TURBO SD*">
+    <title lang="pt">FantomWorks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
