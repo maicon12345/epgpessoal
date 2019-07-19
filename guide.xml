@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD">
+    <display-name lang="pt">DISCOVERY TURBO HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO SD">
+    <display-name lang="pt">DISCOVERY TURBO SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD*">
+    <display-name lang="pt">DISCOVERY TURBO HD*</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY WORLD HD">
+    <display-name lang="pt">DISCOVERY WORLD HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvuniao-natal.gif|http://www.lineup.tv.br/canais/tvuniao.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20190719000000 +0100" stop="20190719235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190719002200 -0300" stop="20190719004800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Loucuras no Trânsito</title>
+    <desc lang="pt">A cada ano, 50 milhões de pessoas ficam feridas nas estradas, gerando uma explosão de vídeos captados por câmeras corporais. Prepare-se para se surpreender com as imagens mais impressionantes desses acidentes(n)</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719004800 -0300" stop="20190719013800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Pequena Grande Oficina: Desafio em Duas Rodas</title>
+    <desc lang="pt">Justin Nichols divulga sua oficina de customização em todo o país com a primeira exposição de uma motocicleta da Nichols Paintu0026 Fab na SEMA: uma bagger(n)</desc>
+    <credits>
+      <director>Dean Bushala</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719013800 -0300" stop="20190719022800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Pequena Grande Oficina: A Estreia na SEMA</title>
+    <desc lang="pt">Justin Nichols e sua equipe estão prontos para mostrar todo o seu talento na feira SEMA com uma motocicleta bagger customizada(n)</desc>
+    <credits>
+      <director>Dean Bushala</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719022800 -0300" stop="20190719031800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados: A Cor do Dinheiro</title>
+    <desc lang="pt">Cada centímetro do Mercedes Gul-Wing foi customizado e o projeto tem um desfecho épico. Mas a equipe da Kindig It Design ainda tem dúvidas. Que cor é a mais adequada? As portas realmente funcionarão(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719031800 -0300" stop="20190719040800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">Dave se arrisca comprando um Roadster 1929, mas Kevin teme que seja outro elefante branco. Kris encara um motor problemático e espera que uma solução de dois dólares conserte um defeito dispendioso(n)</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719040800 -0300" stop="20190719052600 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <episode-num system="onscreen">S15 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719052600 -0300" stop="20190719055100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mestres da Mecânica: Restauração Anos 80</title>
+    <desc lang="pt">Jared e Lou mostram os detalhes da restauração de um Grand National 1987. Eles refazem o teto, o carpete e outros acessórios que hoje estão disponíveis para carros antigos(n)</desc>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719055100 -0300" stop="20190719064300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">Andy tenta transplantar um motor Ford Ecoboost moderno em um Mustang SVO 1985, construído para comportar um antiquado motor 2.3. Os rapazes fazem uma homenagem ao carro favorito de Andy dos anos 70: o GTO Judge 1970(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719064300 -0300" stop="20190719073500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficinaço</title>
+    <desc lang="pt">Uma Chevy Master 1935 chega à oficina, com sua grade diferenciada e interior de madeira. A MBC terá que fazer muita mágica para ressuscitar esta relíquia de 82 anos(n)</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719073500 -0300" stop="20190719082700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Lama, Suor E Máquinas: Carros de Videogame</title>
+    <desc lang="pt">Imagine um videogame da vida real Jonny Smith e Tom(n)</desc>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719082700 -0300" stop="20190719090900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Top Gear USA</title>
+    <desc lang="pt">O ator William Fichtner, o campeão de corridas de dragster Antron Brown e o jornalista britânico Tomu0027Wookie' Ford analisam veículos e os carros clássicos que definiram a cultura norte-americana(n)</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719090900 -0300" stop="20190719095900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">House of Cars - Fúria Espanhola</title>
+    <desc lang="pt">Em uma nova entrega, a oficina de Quintanar de la Sierra se concentra na restauração camaleônica de um Citröen DS Shark dos anos 70(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719095900 -0300" stop="20190719104900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">House of Cars - Fúria Espanhola</title>
+    <desc lang="pt">Neste episódio, confira a transformação total de uma picape Chevrolet 1959. A equipe da M&amp;M Clásicos arregaça as manchas para conferir um ar vintage ao carro(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719104900 -0300" stop="20190719111100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">As Mecânicas: Caçador de Demônios</title>
+    <desc lang="pt">A equipe da AGG instala o protótipo de um kit turbo duplo num Scat Pack Challenger e incrementa a traseira com novos eixos. Depois de pronto, é hora de queimar o asfalto da oficina(n)</desc>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719111100 -0300" stop="20190719113500 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Mestres da Mecânica: Barracuda Brakes</title>
+    <desc lang="pt">Quando tentam fazer uma conversão simples de freios num Barracuda 1965, Jared e Lou percebem problemas nas juntas esféricas e outras estruturas - e o que era para ser uma troca simples vira uma reforma completa da suspensão(n)</desc>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719113500 -0300" stop="20190719122300 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <desc lang="pt">Thomas encontra um raro AMC AMX 1968 em excelente estado. Como só foram fabricados alguns milhares, a dificuldade de encontrar peças faz deste projeto um dos mais desafiadores até o momento(n)</desc>
+    <credits>
+      <director>Pascal Franchot</director>
+      <actor>Jordan Butler</actor>
+      <actor>Scot McMillan</actor>
+      <actor>Richard Rawlings</actor>
+      <actor>Tom Smith</actor>
+      <actor>Thomas Weeks</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719122300 -0300" stop="20190719131100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <desc lang="pt">Enquanto tentam montar o motor e o câmbio de um AMC AMX 1968, os mecânicos mergulham em um caos de fiações mal feitas e peças incompatíveis(n)</desc>
+    <credits>
+      <director>Pascal Franchot</director>
+      <actor>Jordan Butler</actor>
+      <actor>Randall McGee</actor>
+      <actor>Scot McMillan</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719131100 -0300" stop="20190719140100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho - Lances Desastrosos</title>
+    <desc lang="pt">Richard Rawlings, a equipe da Gas Monkey Garage e o elenco de(n)</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719140100 -0300" stop="20190719144900 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho - Lances Desastrosos</title>
+    <desc lang="pt">Richard Rawlings, a equipe da Gas Monkey Garage e o elenco de(n)</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719144900 -0300" stop="20190719153700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">FantomWorks</title>
+    <desc lang="pt">Bob passa anos trabalhando numa picape K20 1969, mas precisa que a FantomWorks desvendar os mistérios de seu motor. O irmão de Dan chega com uma impressionante Ferrari 1962, mas a fiação que pode causar um incêndio(n)</desc>
+    <credits>
+      <director>Bill Evashwick</director>
+      <director>Tim Prokop</director>
+      <actor>Allan Alvarez</actor>
+      <actor>Dale Bagwell</actor>
+      <actor>Spencer Bradnan</actor>
+      <actor>Rob Dietzel</actor>
+      <actor>Dan Short</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719153700 -0300" stop="20190719162700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">FantomWorks</title>
+    <desc lang="pt">Kim e Doug querem dirigir o raro Thunderbolt 1959 de seu pai, mas o carro só serve para as pistas de corrida. Batalla é um lendário construtor de motocicletas que pede a Dan para restaurar uma Knucklehead 1947(n)</desc>
+    <credits>
+      <director>Bill Evashwick</director>
+      <director>Tim Prokop</director>
+      <actor>Allan Alvarez</actor>
+      <actor>Dale Bagwell</actor>
+      <actor>Spencer Bradnan</actor>
+      <actor>Rob Dietzel</actor>
+      <actor>Dan Short</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719162700 -0300" stop="20190719171700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carro Ostentação Com Will Castro: O Cadillac de Jason Derulo</title>
+    <desc lang="pt">Will Castro e a equipe da Unique trabalham até tarde para trazer à tona o lado sexy do Cadillac Escalade do astro Jason Derulo(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719171700 -0300" stop="20190719180700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Carro Ostentação Com Will Castro: Uma Volta com Mahone</title>
+    <desc lang="pt">A equipe da Unique tem apenas uma semana para reformar a Mercedes G-Wagen de Kid Chocolate. Austin Mahone fica tão impressionado com seu quadriciclo Unique que decide levar Will para dar uma volta(n)</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719180700 -0300" stop="20190719183200 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Tunadas: Kart Paulínia</title>
+    <desc lang="pt">Suzane foi campeã brasileira de kart em 1989, e agora volta para o kartódromo em Paulínia-SP(n)</desc>
+    <credits>
+      <director>Carla Maria Albuquerque de Sá</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719183200 -0300" stop="20190719185700 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Turbinados: Ratlooks</title>
+    <desc lang="pt">Caju ajuda Leo a transformar um carro para seu pai, o taxista Antonio. Antonio tem um certo preconceito quanto ao estilo, mas decide ter seu próprio rat rod para ir a um encontro(n)</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719185700 -0300" stop="20190719194800 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Texas Metal: Reforma Lendária</title>
+    <desc lang="pt">Um cliente encomenda a customização de um Yukon Denali 2018. Bill e a equipe trabalham em um chassi feito sob medida, turbos gêmeos e um acabamento sofisticado. Ekstensive trabalha na restauração do lendário Mercury 1948(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719194800 -0300" stop="20190719203200 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <desc lang="pt">Quando encontra um Camaro 70 1/2 no acostamento de uma estrada, Thomas enfrenta uma dura negociação. Depois da compra do Camaro, a equipe da Fired Up Garage mal consegue acreditar em sua sorte(n)</desc>
+    <credits>
+      <director>Pascal Franchot</director>
+      <actor>Christie Brimberry</actor>
+      <actor>Jordan Butler</actor>
+      <actor>Jordan Johnson</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719203200 -0300" stop="20190719212000 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Oficina do Barulho</title>
+    <desc lang="pt">Quando Chris Pratt, astro do filmeu0027Jurassic World - O Mundo dos Dinossauros', encomenda uma motocicleta inspirada nos répteis pré-históricos, a equipe da Fired Up Garage tem a chance de mostrar que tamanho é documento(n)</desc>
+    <credits>
+      <director>Pascal Franchot</director>
+      <actor>Jordan Butler</actor>
+      <actor>Scot McMillan</actor>
+      <actor>Josh Paris</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719212000 -0300" stop="20190719221100 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho - Lances Desastrosos</title>
+    <desc lang="pt">Richard Rawlings e a equipe da Gas Monkey Garage assistem a vídeos impressionantes, incluindo um acidente de motocicleta gravado por uma câmera no capacete e uma montagem impressionante(n)</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719221100 -0300" stop="20190719230200 -0300" channel="DISCOVERY TURBO HD">
+    <title lang="pt">Dupla do Barulho - Lances Desastrosos</title>
+    <desc lang="pt">Richard Rawlings e seus amigos da Gas Monkey Garage assistem às loucuras dos viciados em adrenalina em vídeos arrepiantes, que incluem colisões com aviões, ônibus, motos e carros de corrida(n)</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719004800 -0300" stop="20190719013800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719013800 -0300" stop="20190719022800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Pequena Grande Oficina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719022800 -0300" stop="20190719031800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719031800 -0300" stop="20190719040800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Carros Irados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719040800 -0300" stop="20190719050100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719050100 -0300" stop="20190719052600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719052600 -0300" stop="20190719055100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719055100 -0300" stop="20190719064100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Os Reis da Sucata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719064100 -0300" stop="20190719073100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficinaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719073100 -0300" stop="20190719081900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719081900 -0300" stop="20190719090700 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Invasão de Garagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719090700 -0300" stop="20190719095500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719095500 -0300" stop="20190719104500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719104500 -0300" stop="20190719111000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">As Mecânicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719111000 -0300" stop="20190719113500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Mestres da Mecânica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719113500 -0300" stop="20190719122300 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719122300 -0300" stop="20190719131100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719131100 -0300" stop="20190719140100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719140100 -0300" stop="20190719144900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719144900 -0300" stop="20190719153900 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Lama, Suor E Máquinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719153900 -0300" stop="20190719162400 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear USA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719162400 -0300" stop="20190719171400 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719171400 -0300" stop="20190719180500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">House of Cars</title>
+    <sub-title lang="pt">Fúria Espanhola</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719180500 -0300" stop="20190719183000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Tunadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719183000 -0300" stop="20190719185500 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Turbinados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719185500 -0300" stop="20190719194600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719194600 -0300" stop="20190719203000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719203000 -0300" stop="20190719212000 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Oficina do Barulho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719212000 -0300" stop="20190719221100 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719221100 -0300" stop="20190719230200 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Dupla do Barulho</title>
+    <sub-title lang="pt">Lances Desastrosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719230200 -0300" stop="20190719235600 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Top Gear</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719235600 -0300" stop="20190720004800 -0300" channel="DISCOVERY TURBO SD">
+    <title lang="pt">Texas Metal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
