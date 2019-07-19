@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET FHD (DUAL AUDIO)">
+    <display-name lang="pt">ANIMAL PLANET FHD (DUAL AUDIO)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD*">
+    <display-name lang="pt">ANIMAL PLANET HD*</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET SD">
+    <display-name lang="pt">ANIMAL PLANET SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET SD*">
+    <display-name lang="pt">ANIMAL PLANET SD*</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ARTE 1 FHD (DUAL AUDIO)">
+    <display-name lang="pt">ARTE 1 FHD (DUAL AUDIO)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ARTE 1 HD">
+    <display-name lang="pt">ARTE 1 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ARTE 1 HD*">
+    <display-name lang="pt">ARTE 1 HD*</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ARTE 1 SD">
+    <display-name lang="pt">ARTE 1 SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ARTE 1 SD*">
+    <display-name lang="pt">ARTE 1 SD*</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO FHD (DUAL AUDIO)">
+    <display-name lang="pt">DISCOVERY TURBO FHD (DUAL AUDIO)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD">
+    <display-name lang="pt">DISCOVERY TURBO HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD*">
+    <display-name lang="pt">DISCOVERY TURBO HD*</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO SD">
+    <display-name lang="pt">DISCOVERY TURBO SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO SD*">
+    <display-name lang="pt">DISCOVERY TURBO SD*</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190719000000 +0100" stop="20190719235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190720000000 +0100" stop="20190720235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190721000000 +0100" stop="20190721235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+</tv>
