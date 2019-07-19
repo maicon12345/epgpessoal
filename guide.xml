@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="TELECINE PREMIUM HD">
+    <display-name lang="pt">TELECINE PREMIUM HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190719000000 +0100" stop="20190719235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190719013500 -0300" stop="20190719032000 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Aplicativo Do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719032000 -0300" stop="20190719052000 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">A Máquina De Lembranças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719052000 -0300" stop="20190719073500 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Doentes de Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719073500 -0300" stop="20190719095500 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Trama Fantasma</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719095500 -0300" stop="20190719114500 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Quem Somos Agora</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719114500 -0300" stop="20190719134000 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Status Update: Perfil dos Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719134000 -0300" stop="20190719151500 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Tudo Acaba Em Festa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719151500 -0300" stop="20190719175000 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Star Wars: Os Últimos Jedi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719175000 -0300" stop="20190719192500 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Gnomeu e Julieta: O Mistério do Jardim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719192500 -0300" stop="20190719220000 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">Maze Runner: A Cura Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190719234000 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">No Limite (2017)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190719234000 -0300" stop="20190720011500 -0300" channel="TELECINE PREMIUM HD">
+    <title lang="pt">O Grinch (2018)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
